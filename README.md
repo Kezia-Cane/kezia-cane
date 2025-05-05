@@ -57,11 +57,11 @@
     <tr><th colspan="5">Frameworks & Libraries</th></tr>
   </thead>
   <tr>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="60"/></td>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="60"/></td>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height="60"/></td>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60"/></td>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="60"/></td>
+    <td align="center" width=110><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60"/></td>
+    <td align="center" width=110><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="60"/></td>
+    <td align="center" width=110><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="60"/></td>
+    <td align="center" width=110><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60"/></td>
+    <td align="center" width=110><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="60"/></td>
   </tr>
   <tr>
     <td align="center">React</td>
@@ -70,7 +70,22 @@
     <td align="center">Bootstrap</td>
     <td align="center">TailwindCSS</td>
   </tr>
+  <tr>
+    <td align="center" width=110><img src="https://cdn.simpleicons.org/flutter/02569B" height="60"/></td>
+    <td align="center" width=110><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="60"/></td>
+    <td align="center" width=110><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60"/></td>
+    <td align="center" width=110><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60"/></td>
+    <td align="center" width=110><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" height="60"/></td>
+  </tr>
+  <tr>
+    <td align="center">Flutter</td>
+    <td align="center">Express.js</td>
+    <td align="center">Node.js</td>
+    <td align="center">Next.js</td>
+    <td align="center">Axios</td>
+  </tr>
 </table>
+
 
 <!-- Tools -->
 <table>

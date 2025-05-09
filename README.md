@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kezia</h1>
-<h3 align="center">Asipiring Full Stack Developer</h3>
+<h3 align="center">Aspiring Full Stack Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kezia-cane&label=Profile%20views&color=0e75b6&style=flat" alt="kezia-cane" />
